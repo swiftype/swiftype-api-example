@@ -1,0 +1,19 @@
+{
+  "document": {
+    "external_id": "v1uyQZNg2vE",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=v1uyQZNg2vE", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/v1uyQZNg2vE/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCK8sQmJBp8GCxrOtXWBpyEA", "type": "enum"},
+      {"name": "title", "value": "How It Feels [through Glass]", "type": "string"},
+      {"name": "caption", "value": "Want to see how Glass actually feels?...", "type": "text"},
+      {"name": "tags", "value": ["Glass", "Google Glass", "Project Glass", "Glass video", "google", "glassesgoogle", "goggles", "if i had glass", "Glass Explorer", "Glass Explorers", "glass vid", "glass video", "ok ..."], "type": "string"},
+      {"name": "category_name", "value": "Science &amp; Technology", "type": "string"},
+      {"name": "category_id", "value": "28", "type": "enum"},
+      {"name": "published_at", "value": "2013-02-20T10:47:18", "type": "date"},
+      {"name": "duration", "value": 136, "type": "integer"},
+      {"name": "view_count", "value": 14599202, "type": "integer"},
+      {"name": "like_count", "value": 75952, "type": "integer"}
+    ]
+  }
+}

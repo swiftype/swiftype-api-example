@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "C8Wu3Bps9ic",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=C8Wu3Bps9ic", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/C8Wu3Bps9ic/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCfLGZs8bSDbkNJjCRIE7NSg", "type": "enum"},
+      {"name": "title", "value": "Meatball Massacre - Regular Ordinary Swedish Meal Time", "type": "string"},
+      {"name": "caption", "value": "Swedish Meatballs. They are good for you.\r\n\r\nLingonsylt are for Swedish nationalists. WE DONT LIKE THAT\r\n\r\n\r\nEnjoy.\r\n\r\n\r\n( Greyish sometimes to compensate for bad lighting, deal with it haters )\r\n\r\nLove us on Facebook http://www.facebook.com/pages/Regular-Ordinary-Swedish-Meal-Time/166173596761030 \r\nand Twitter: http://twitter.com/SwedishMealTime", "type": "text"},
+      {"name": "category_name", "value": "Comedy", "type": "string"},
+      {"name": "category_id", "value": "23", "type": "enum"},
+      {"name": "published_at", "value": "2011-01-13T21:48:04", "type": "date"},
+      {"name": "duration", "value": 199, "type": "integer"},
+      {"name": "view_count", "value": 5565896, "type": "integer"},
+      {"name": "like_count", "value": 30139, "type": "integer"}
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "dMH0bHeiRNg",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=dMH0bHeiRNg", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/dMH0bHeiRNg/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UC5B9H4l2vtgo7cAoExcFh-w", "type": "enum"},
+      {"name": "title", "value": "Evolution of Dance - By Judson Laipply", "type": "string"},
+      {"name": "caption", "value": "For more visit http://www.mightaswelldance.com", "type": "text"},
+      {"name": "category_name", "value": "Comedy", "type": "string"},
+      {"name": "category_id", "value": "23", "type": "enum"},
+      {"name": "published_at", "value": "2006-04-06T21:30:53", "type": "date"},
+      {"name": "duration", "value": 360, "type": "integer"},
+      {"name": "view_count", "value": 210433484, "type": "integer"},
+      {"name": "like_count", "value": 927235, "type": "integer"}
+    ]
+  }
+}

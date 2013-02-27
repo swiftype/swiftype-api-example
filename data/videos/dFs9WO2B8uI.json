@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "dFs9WO2B8uI",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=dFs9WO2B8uI", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/dFs9WO2B8uI/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCrDkAvwZum-UTjHmzDI2iIw", "type": "enum"},
+      {"name": "title", "value": "RSA Animate - The Divided Brain", "type": "string"},
+      {"name": "caption", "value": "In this new RSA Animate, renowned psychiatrist and writer Iain McGilchrist explains how our 'divided brain' has profoundly altered human behaviour, culture and society. \n\nTaken from a lecture given by Iain McGilchrist as part of the RSA's free public events programme. To view the full lecture, go to http://www.youtube.com/watch?v=SbUHxC4wiWk. The RSA is a charity dedicated to driving social progress and spreading world-changing ideas. For more information about our varied work, visit http://www.thersa.org. \n\nLike the RSA on Facebook: http://www.facebook.com/thersaorg\nBecome a Fellow: http://www.thersa.org/fellowship \nAttend a live event: http://www.thersa.org/events\nSupport us: http://www.thersa.org/support-the-rsa", "type": "text"},
+      {"name": "category_name", "value": "News & Politics", "type": "string"},
+      {"name": "category_id", "value": "25", "type": "enum"},
+      {"name": "published_at", "value": "2012-07-15T07:46:32", "type": "date"},
+      {"name": "duration", "value": 708, "type": "integer"},
+      {"name": "view_count", "value": 1118857, "type": "integer"},
+      {"name": "like_count", "value": 11993, "type": "integer"}
+    ]
+  }
+}

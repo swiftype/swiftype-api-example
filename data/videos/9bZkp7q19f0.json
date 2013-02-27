@@ -1,0 +1,19 @@
+{
+  "document": {
+    "external_id": "9bZkp7q19f0",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=9bZkp7q19f0", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/9bZkp7q19f0/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCrDkAvwZum-UTjHmzDI2iIw", "type": "enum"},
+      {"name": "title", "value": "PSY - GANGNAM STYLE (강남스타일) M/V", "type": "string"},
+      {"name": "caption", "value": "PSY - Gangnam Style (강남스타일) \n▶ NOW available on iTunes: http://Smarturl.it/psygangnam\n▶ Official PSY Online Store US & International : http://psy.shop.bravadousa.com/\n▶ About PSY from YG Ent.: http://smarturl.it/YGfamilyAboutPSY\n▶ PSY's Products on eBay: http://stores.ebay.com/ygentertainment\n▶ YG-eShop: http://www.ygeshop.com\n \nFor More Information @\nhttp://www.facebook.com/officialpsy\nhttp://twitter.com/psy_oppa\nhttp://twitter.com/ygent_official\nhttp://me2day.net/psyfive\nhttp://www.psypark.com\nApp Store: http://goo.gl/l9TU6\nGoogle Play: http://goo.gl/UiEn1\n\n© YG Entertainment Inc. All rights reserved.", "type": "text"},
+      {"name": "tags", "value": ["PSY", "싸이", "강남스타일", "뮤직비디오", "Music Video", "Gangnam Style", "KOREAN SINGER", "KPOP", "KOERAN WAVE", "PSY 6甲", "6th Studio Album", "싸이6집", "육갑", "YG Family", "YG Entertainment"], "type": "string"},
+      {"name": "category_name", "value": "Music", "type": "string"},
+      {"name": "category_id", "value": "10", "type": "enum"},
+      {"name": "published_at", "value": "2012-07-15T07:46:32", "type": "date"},
+      {"name": "duration", "value": 253, "type": "integer"},
+      {"name": "view_count", "value": 1360426986, "type": "integer"},
+      {"name": "like_count", "value": 7095431, "type": "integer"}
+    ]
+  }
+}

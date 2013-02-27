@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "pITuOcGgpBs",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=pITuOcGgpBs", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/pITuOcGgpBs/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCPrFOf5ObdBHfNs5BuO-vPQ", "type": "enum"},
+      {"name": "title", "value": "Swiftype Demo", "type": "string"},
+      {"name": "caption", "value": "", "type": "text"},
+      {"name": "category_name", "value": "People & Blogs", "type": "string"},
+      {"name": "category_id", "value": "22", "type": "enum"},
+      {"name": "published_at", "value": "2012-05-08T09:03:17", "type": "date"},
+      {"name": "duration", "value": 110, "type": "integer"},
+      {"name": "view_count", "value": 12865, "type": "integer"},
+      {"name": "like_count", "value": 27, "type": "integer"}
+    ]
+  }
+}

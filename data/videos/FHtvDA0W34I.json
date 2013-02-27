@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "FHtvDA0W34I",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=FHtvDA0W34I", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/FHtvDA0W34I/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCblfuW_4rakIf2h6aqANefA", "type": "enum"},
+      {"name": "title", "value": "Felix Baumgartner's supersonic freefall from 128k' - Mission Highlights", "type": "string"},
+      {"name": "caption", "value": "Song: http://smarturl.it/tafreespacedout\n\nAfter flying to an altitude of 39,045 meters (128,100 feet) in a helium-filled balloon, Felix Baumgartner completed a record breaking jump for the ages from the edge of space, exactly 65 years after Chuck Yeager first broke the sound barrier flying in an experimental rocket-powered airplane. Felix reached a maximum of speed of 1,357.6 km/h or 843.6 mph(Mach 1.25) through the near vacuum of the stratosphere before being slowed by the atmosphere later during his 4:20 minute long freefall. The 43-year-old Austrian skydiving expert also broke two other world records (highest freefall, highest manned balloon flight), leaving the one for the longest freefall to project mentor Col. Joe Kittinger.\n\nWatch the Full Recap: http://www.youtube.com/watch?v=dOoHArAzdug\n\nhttp://www.redbullstratos.com\n___________________________________________________________\n\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and YouTube exclusive series, prepare for your \"stoke factor\" to be at an all time high.\n\nRed Bull on Facebook: http://win.gs/redbullfb\n\nRed Bull on Twitter: http://win.gs/redbulltwitter\n\nSubscribe to Red Bull on Youtube: http://www.youtube.com/subscription_center?add_user=redbull", "type": "text"},
+      {"name": "category_name", "value": "Science & Technology", "type": "string"},
+      {"name": "category_id", "value": "28", "type": "enum"},
+      {"name": "published_at", "value": "2012-10-15T00:06:53", "type": "date"},
+      {"name": "duration", "value": 91, "type": "integer"},
+      {"name": "view_count", "value": 32874417, "type": "integer"},
+      {"name": "like_count", "value": 127463, "type": "integer"}
+    ]
+  }
+}

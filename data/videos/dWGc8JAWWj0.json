@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "dWGc8JAWWj0",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=dWGc8JAWWj0", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/dWGc8JAWWj0/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCfLGZs8bSDbkNJjCRIE7NSg", "type": "enum"},
+      {"name": "title", "value": "(#1 most viewed train) SP 4449 crossing at  Roberts, Oregon", "type": "string"},
+      {"name": "caption", "value": "SP 4449 #1 most viewed train video Daylight Steam Engine with Casper Mountain passenger car coming from Albany, Oregon going to Portland, Oregon  The World's Most Famous Steam Train Southern Pacific steam locomotive no. 4449 known as the \"Daylight\"  Nikon L5 (If you like my videos, rate, comment and subscribe to my channel)\nDon't forget to SUBSCRIBE!\nErvans Trains http://www.youtube.com/user/ervans", "type": "text"},
+      {"name": "category_name", "value": "Autos & Vehicles", "type": "string"},
+      {"name": "category_id", "value": "2", "type": "enum"},
+      {"name": "published_at", "value": "2007-04-18T00:49:21", "type": "date"},
+      {"name": "duration", "value": 50, "type": "integer"},
+      {"name": "view_count", "value": 22213068, "type": "integer"},
+      {"name": "like_count", "value": 7117, "type": "integer"}
+    ]
+  }
+}

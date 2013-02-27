@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "QH2-TGUlwu4",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=QH2-TGUlwu4", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/QH2-TGUlwu4/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UC3VHfy8e1jbDnT5TG2pjP1w", "type": "enum"},
+      {"name": "title", "value": "Nyan Cat [original]", "type": "string"},
+      {"name": "caption", "value": "For PJ.\n\nCheck out Nyan Cat at http://nyan.cat/\nOfficial Nyan Cat Facebook: http://www.facebook.com/NyanCatWorld\nNyan Cat on Twitter: https://twitter.com/nyannyancat\n\nNyan Cat Store: http://nyancat.cat/store.html\n\nGIF by PRguitarman http://www.prguitarman.com/index.php?id=348\nSong by Daniwell-P/Momone Momo UTAU http://momolabo.lolipop.jp/nyancatsong/Nyan/\n***used with permission; I own neither***", "type": "text"},
+      {"name": "category_name", "value": "Comedy", "type": "string"},
+      {"name": "category_id", "value": "23", "type": "enum"},
+      {"name": "published_at", "value": "2011-04-06T03:21:59", "type": "date"},
+      {"name": "duration", "value": 217, "type": "integer"},
+      {"name": "view_count", "value": 93258193, "type": "integer"},
+      {"name": "like_count", "value": 711548, "type": "integer"}
+    ]
+  }
+}

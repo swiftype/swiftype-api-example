@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "FtX8nswnUKU",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=FtX8nswnUKU", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/FtX8nswnUKU/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UC0c2TaeQY5VRMltq5Z2TQMA", "type": "enum"},
+      {"name": "title", "value": "kittens inspired by kittens", "type": "string"},
+      {"name": "caption", "value": "http://www.facebook.com/pages/Kittens-Inspired-by-Kittens/49930012799", "type": "text"},
+      {"name": "category_name", "value": "Pets & Animals", "type": "string"},
+      {"name": "category_id", "value": "15", "type": "enum"},
+      {"name": "published_at", "value": "2008-09-01T14:25:17", "type": "date"},
+      {"name": "duration", "value": 92, "type": "integer"},
+      {"name": "view_count", "value": 17228767, "type": "integer"},
+      {"name": "like_count", "value": 47388, "type": "integer"}
+    ]
+  }
+}

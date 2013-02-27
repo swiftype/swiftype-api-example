@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "ik5sdwYZ01Q",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=ik5sdwYZ01Q", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/FHtvDA0W34I/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCiTvufmbsDlYeZ9JOVtiYYQ", "type": "enum"},
+      {"name": "title", "value": "Grumpy Cat Does The Harlem Shake (Ad Free)", "type": "string"},
+      {"name": "caption", "value": "Best Harlem Shake Ever.  No Ads.", "type": "text"},
+      {"name": "category_name", "value": "Pets & Animals", "type": "string"},
+      {"name": "category_id", "value": "15", "type": "enum"},
+      {"name": "published_at", "value": "2013-02-20T02:37:53", "type": "date"},
+      {"name": "duration", "value": 18, "type": "integer"},
+      {"name": "view_count", "value": 125939, "type": "integer"},
+      {"name": "like_count", "value": 1014, "type": "integer"}
+    ]
+  }
+}

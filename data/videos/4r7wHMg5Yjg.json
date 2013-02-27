@@ -1,0 +1,18 @@
+{
+  "document": {
+    "external_id": "4r7wHMg5Yjg",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/watch?v=4r7wHMg5Yjg", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://i.ytimg.com/vi/4r7wHMg5Yjg/mqdefault.jpg", "type": "enum"},
+      {"name": "channel_id", "value": "UCdYazIu26zP1VlU7vcwb-5g", "type": "enum"},
+      {"name": "title", "value": "The Crazy Nastyass Honey Badger (original narration by Randall)", "type": "string"},
+      {"name": "caption", "value": "The Crazy Nastyass Honey Badger (original narration by Randall)\n\nEnter the Honey Badger Doll Contest for a chance to win fabulous crazyass prizes: https://www.facebook.com/randallshoneybadger/app_228910107186452 !!!\n\n*GET THE TALKING NASTYASS HONEY BADGER DOLL, STUPID: http://randallshoneybadger.com/honey-badger-products/\n\n*Get Randall's book now!: http://bit.ly/wW79nq ***VOTE HONEY BADGER to learn more visit: http://bit.ly/PiuHIi  \n\n*VISIT: http://bit.ly/wkrWiY  *FOR THE HOT APP\n\n\nSpecial thanks to Colleen and Keith Begg for their extensive work and care--to find out more about the filmmakers and what they do, please visit: http://bit.ly/JSgPWr\n\nThere is no other animal in the kingdom of all animals, as fearless as the crazyass Honey Badger.  Nasty as hell, it eats practically whatever it wants.  Randall is disgusted.  To learn more about the Honey Badger, please visit.  \nwork: http://www.nationalgeographic.com/\n\nThere is no other animal in the kingdom of all animals, as fearless as the crazyass Honey Badger.  Nasty as hell, it eats whatever it wants and don't give a shit. \n\nGet the Talking Nastyass Honey Badger Doll, stupid: http://randallshoneybadger.com/honey-badger-products\n\nLike the Honey Badger on Facebook: https://www.facebook.com/randallshoneybadger\n\nFollow me on Twitter: https://twitter.com/randallsanimals\n\nRead the Honey Badger book now: http://tinyurl.com/afo92xv\n\nVisit http://bit.ly/wkrWiY for the honey badger app", "type": "text"},
+      {"name": "category_name", "value": "Comedy", "type": "string"},
+      {"name": "category_id", "value": "23", "type": "enum"},
+      {"name": "published_at", "value": "2011-01-18T11:51:47", "type": "date"},
+      {"name": "duration", "value": 201, "type": "integer"},
+      {"name": "view_count", "value": 57549733, "type": "integer"},
+      {"name": "like_count", "value": 265458, "type": "integer"}
+    ]
+  }
+}
