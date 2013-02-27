@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCblfuW_4rakIf2h6aqANefA",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/redbull", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/blfuW_4rakIf2h6aqANefA/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "redbull", "type": "string"},
+      {"name": "description", "value": "Experience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and YouTube exclusive series, prepare for your \"stoke factor\" to be at an all time high.", "type": "string"},
+      {"name": "published_at", "value": "2006-09-23T03:44:21", "type": "date"},
+      {"name": "view_count", "value": 2211991, "type": "integer"},
+      {"name": "subscriber_count", "value": 133455, "type": "integer"},
+      {"name": "video_count", "value": 201, "type": "integer"}
+    ]
+  }
+}

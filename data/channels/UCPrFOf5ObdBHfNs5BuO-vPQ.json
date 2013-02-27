@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCPrFOf5ObdBHfNs5BuO-vPQ",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/swiftype", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/PrFOf5ObdBHfNs5BuO-vPQ/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "swiftype", "type": "string"},
+      {"name": "description", "value": "", "type": "string"},
+      {"name": "published_at", "value": "2011-11-26T00:17:40", "type": "date"},
+      {"name": "view_count", "value": 309, "type": "integer"},
+      {"name": "subscriber_count", "value": 5, "type": "integer"},
+      {"name": "video_count", "value": 6, "type": "integer"}
+    ]
+  }
+}

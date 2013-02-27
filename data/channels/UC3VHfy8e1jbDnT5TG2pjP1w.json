@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UC3VHfy8e1jbDnT5TG2pjP1w",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/saraj00n", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/3VHfy8e1jbDnT5TG2pjP1w/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "saraj00n", "type": "string"},
+      {"name": "description", "value": "Sara Reihani/Slobs comedy. slobs.productions@gmail.com\n\nFor Nyan Cat inquiries, contact: pr@prguitarman.com", "type": "string"},
+      {"name": "published_at", "value": "2011-01-03T00:27:56", "type": "date"},
+      {"name": "view_count", "value": 727472, "type": "integer"},
+      {"name": "subscriber_count", "value": 25729, "type": "integer"},
+      {"name": "video_count", "value": 41, "type": "integer"}
+    ]
+  }
+}

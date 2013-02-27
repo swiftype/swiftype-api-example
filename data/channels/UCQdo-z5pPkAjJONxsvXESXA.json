@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCQdo-z5pPkAjJONxsvXESXA",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/ervans", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/Qdo-z5pPkAjJONxsvXESXA/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "ervans", "type": "string"},
+      {"name": "description", "value": "All of my Videos are original short films I recorded, most are train videos. Very little editing.  If you like my videos. (Rate, Comment and Subscribe).", "type": "string"},
+      {"name": "published_at", "value": "2006-04-26T18:08:07", "type": "date"},
+      {"name": "view_count", "value": 1787374, "type": "integer"},
+      {"name": "subscriber_count", "value": 41464, "type": "integer"},
+      {"name": "video_count", "value": 191, "type": "integer"}
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCfLGZs8bSDbkNJjCRIE7NSg",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/SwedishMealTime", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/fLGZs8bSDbkNJjCRIE7NSg/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "SwedishMealTime", "type": "string"},
+      {"name": "description", "value": "For Mayo in time.", "type": "string"},
+      {"name": "published_at", "value": "2011-01-06T20:20:03", "type": "date"},
+      {"name": "view_count", "value": 6328566, "type": "integer"},
+      {"name": "subscriber_count", "value": 455337, "type": "integer"},
+      {"name": "video_count", "value": 36, "type": "integer"}
+    ]
+  }
+}

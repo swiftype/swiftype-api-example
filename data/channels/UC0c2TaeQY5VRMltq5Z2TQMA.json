@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UC0c2TaeQY5VRMltq5Z2TQMA",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/redbull", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/0c2TaeQY5VRMltq5Z2TQMA/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "blakekelly0", "type": "string"},
+      {"name": "description", "value": "my kids are awesome", "type": "string"},
+      {"name": "published_at", "value": "2007-12-21T13:03:48", "type": "date"},
+      {"name": "view_count", "value": 381741, "type": "integer"},
+      {"name": "subscriber_count", "value": 3371, "type": "integer"},
+      {"name": "video_count", "value": 26, "type": "integer"}
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCiTvufmbsDlYeZ9JOVtiYYQ",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/DwnWthVwls", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/blfuW_4rakIf2h6aqANefA/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "Joel Zimmerebner", "type": "string"},
+      {"name": "description", "value": "", "type": "string"},
+      {"name": "published_at", "value": "2006-10-20T04:21:40", "type": "date"},
+      {"name": "view_count", "value": 350, "type": "integer"},
+      {"name": "subscriber_count", "value": 124, "type": "integer"},
+      {"name": "video_count", "value": 3, "type": "integer"}
+    ]
+  }
+}

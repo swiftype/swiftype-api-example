@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCrDkAvwZum-UTjHmzDI2iIw",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/officialpsy", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/rDkAvwZum-UTjHmzDI2iIw/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "officialpsy", "type": "string"},
+      {"name": "description", "value": "PSY Official YouTube Channel", "type": "string"},
+      {"name": "published_at", "value": "2010-10-04T02:50:53", "type": "date"},
+      {"name": "view_count", "value": 35989504, "type": "integer"},
+      {"name": "subscriber_count", "value": 3060443, "type": "integer"},
+      {"name": "video_count", "value": 47, "type": "integer"}
+    ]
+  }
+}

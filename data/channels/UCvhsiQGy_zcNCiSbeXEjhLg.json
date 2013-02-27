@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCvhsiQGy_zcNCiSbeXEjhLg",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/theRSAorg", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/vhsiQGy_zcNCiSbeXEjhLg/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "theRSAorg", "type": "string"},
+      {"name": "description", "value": "The RSA: meeting 21st century challenges by showcasing ideas, undertaking innovative research and building civic capacity around the world.\r\n \r\nTo learn more about the RSA, visit: thersa.org\r\n\r\nOur events are made possible with the support of our Fellowship. Support us by donating or applying to become a Fellow.\r\n \r\nDownload the podcasts to listen to events in full (unedited versions available including Q&A sessions) thersa.org/events/audio-and-past-events\r\n \r\nYou can book to attend RSA Events for free, and you can also listen or watch our events live online. Find out about RSA Events coming up by following @RSAEvents on twitter or visiting: thersa.org/events\r\n \r\nKeep up-to-date with our work - you can read our blogs, follow us on Twitter and become a fan on Facebook.", "type": "string"},
+      {"name": "published_at", "value": "2009-08-06T10:21:23", "type": "date"},
+      {"name": "view_count", "value": 2434953, "type": "integer"},
+      {"name": "subscriber_count", "value": 243017, "type": "integer"},
+      {"name": "video_count", "value": 557, "type": "integer"}
+    ]
+  }
+}

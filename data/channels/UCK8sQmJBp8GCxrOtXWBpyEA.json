@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/Google", "type": "enum"},
+      {"name": "thumbnail_url", "value": "https://lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k/photo.jpg", "type": "enum"},
+      {"name": "title", "value": "Google", "type": "string"},
+      {"name": "description", "value": "Google's official YouTube channel.", "type": "string"},
+      {"name": "published_at", "value": "2005-09-18T22:37:10", "type": "date"},
+      {"name": "view_count", "value": 33428669, "type": "integer"},
+      {"name": "subscriber_count", "value": 1270202, "type": "integer"},
+      {"name": "video_count", "value": 1546, "type": "integer"}
+    ]
+  }
+}

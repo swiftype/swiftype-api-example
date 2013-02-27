@@ -1,0 +1,15 @@
+{
+  "document": {
+    "external_id": "UCdYazIu26zP1VlU7vcwb-5g",
+    "fields": [
+      {"name": "url", "value": "http://www.youtube.com/user/czg123", "type": "enum"},
+      {"name": "thumbnail_url", "value": "http://i.ytimg.com/i/dYazIu26zP1VlU7vcwb-5g/mq1.jpg", "type": "enum"},
+      {"name": "title", "value": "czg123", "type": "string"},
+      {"name": "description", "value": "Welcome to Randall's Honey Badger Channel!\r\n\r\nSubscribe now for even more of the Honey Badger's Crazy Nastyass Animal videos, stupid!\r\n\r\nFor inquiries, contact ThruLine Entertainment: danny@thrulinela.com", "type": "string"},
+      {"name": "published_at", "value": "2011-01-06T20:20:03", "type": "date"},
+      {"name": "view_count", "value": 2211991, "type": "integer"},
+      {"name": "subscriber_count", "value": 133455, "type": "integer"},
+      {"name": "video_count", "value": 201, "type": "integer"}
+    ]
+  }
+}
