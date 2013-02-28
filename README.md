@@ -17,3 +17,7 @@ To create your own engine, first [sign up for a Swiftype account](https://swifty
 This should work on Unix-based operating systems (patches for a Windows script are welcome).
 
 Note: `curl` is required to run the `create_engine.sh` script.
+
+## Search implementation
+
+Open `search/index.html` in your browser to try out some searches. This example shows how to implement a search for an API-based search engine with the Swiftype jQuery autocomplete and search plugins.

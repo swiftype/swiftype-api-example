@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Swiftype API Search Example</title>
+    <link type='text/css' rel='stylesheet' href='search.css' media='all' />
+    <link type='text/css' rel='stylesheet' href='autocomplete.css' media='all' />
+  </head>
+  <body>
+    <h1>Swiftype API search example</h1>
+
+    <p>Try queries like: "cat", "psy", "comedy"</p>
+    <form>
+      <input id="st-search-input" class="st-search-input" type="text" placeholder="Search...">
+      <h3>Search...</h3>
+      <input type="radio" name="document_type" value="all" id="all" checked="checked"> <label for="all">All</label>
+      <input type="radio" name="document_type" value="videos" id="videos"> <label for="videos">Videos</label>
+      <input type="radio" name="document_type" value="channels" id="channels"> <label for="channels">Channels</label>
+    </form>
+
+    <div id="st-results-container"></div>
+
+    <script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://twitter.github.com/hogan.js/builds/2.0.0/hogan-2.0.0.js"></script>
+    <script type='text/javascript' src='https://raw.github.com/swiftype/swiftype-search-jquery/master/jquery.swiftype.search.js'></script>
+    <script type='text/javascript' src='https://raw.github.com/swiftype/swiftype-autocomplete-jquery/master/jquery.swiftype.autocomplete.js'></script>
+    <script type='text/javascript' src='https://raw.github.com/swiftype/swiftype-search-jquery/master/jquery.ba-hashchange.min.js'></script>
+
+    <script type="text/javascript">
+var resultTemplate = Hogan.compile('<div class="st-result"><h3 class="title"><a href="{{url}}" class="st-search-result-link">{{{title}}}</a></h3>' +
+                                   '<div class="st-metadata"><span class="st-snippet">{{{body}}}</span></div></div>');
+
+var searchResultRenderFunction = function(documentType, item) {
+  var data = {
+    url: item['url'],
+    thumbnailUrl: item['thumbnail_url'],
+    title: item['highlight']['title'] || Swiftype.htmlEscape(item['title'])
+  };
+
+  if (documentType === 'videos') {
+    data.body = (item['highlight']['caption'] || Swiftype.htmlEscape(item['caption']));
+  } else if (documentType === 'channels') {
+    data.body = (item['highlight']['description'] || Swiftype.htmlEscape(item['description']));
+  }
+
+  return resultTemplate.render(data);
+};
+
+var autocompleteTemplate = Hogan.compile('<p class="title"><img src="{{thumbnailUrl}}" width="25" height="25">{{title}}</p>');
+
+var autocompleteRenderFunction = function(documentType, item) {
+  var data = {
+    thumbnailUrl: item['thumbnail_url'],
+    title: Swiftype.htmlEscape(item['title'])
+  };
+
+  return autocompleteTemplate.render(data);
+};
+
+var selectedDocumentTypes = function() {
+  var value = $("input[name=document_type]:radio:checked").val();
+  if (value === 'all') {
+    return [];
+  } else {
+    return [value];
+  }
+};
+
+$(function() {
+  $('#st-search-input').swiftypeSearch({
+    resultContainingElement: '#st-results-container',
+    engineKey: 'swiftype-api-example',
+    renderFunction: searchResultRenderFunction,
+    documentTypes: selectedDocumentTypes
+  });
+});
+
+$('#st-search-input').swiftype({
+  engineKey: 'swiftype-api-example',
+  renderFunction: autocompleteRenderFunction,
+  documentTypes: selectedDocumentTypes
+});
+    </script>
+  </body>
+</html>
