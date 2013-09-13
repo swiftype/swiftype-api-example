@@ -6,7 +6,7 @@ VIDEOS='./data/videos/*.json'
 CHANNELS='./data/channels/*.json'
 
 if [ $# -eq 0 ]; then
-    echo "Please provide your engine key as a command line argument."
+    echo "Please provide your API key as a command line argument."
     exit 1
 fi
 
